@@ -1,0 +1,7 @@
+{
+  "name": "Digital Safety",
+  "description": "Comprehensive Android security analyzer with app permission auditor, scam & phishing detection, network diagnostics, secure encrypted vault, and AI security advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
